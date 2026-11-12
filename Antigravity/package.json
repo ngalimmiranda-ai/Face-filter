@@ -1,0 +1,17 @@
+{
+  "name": "face-filter-camera",
+  "version": "1.0.0",
+  "description": "Real-time face filter app with interactive Dog and Cat filters",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "face-filter",
+    "mediapipe",
+    "camera"
+  ],
+  "author": "",
+  "license": "MIT"
+}
